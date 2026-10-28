@@ -1,18 +1,17 @@
-Introduction: Aditya Sachdeva from Gurugram, first-year PGDM student at FIIB. B.Com (Hons) graduate with 2 years’ experience as Management Associate at Punjab Emery Works. Interested in marketing, digital tools and AI.
+🎓 Education
+- PGDM, Fortune Institute of International Business (2026–2028)
+- B.Com (Hons), VIPS, GGSIPU (2021–2024), CGPA 8.57
 
-Education:
+🛠️ Skills
+Social Media Marketing • SEO • Email Marketing • Google Ads • Google Analytics • WordPress • Tally • Excel
 
-PGDM, FIIB (2026–2028)
-B.Com (Hons), VIPS, GGSIPU (2021–2024), CGPA 8.57
-XII (2021) and X (2019), Summer Fields School
+🚀 Projects
+- **boAt Smartwatch Sales Decline:** team capstone with the "Kashti" insight assistant
 
-Skills: Social media marketing, SEO, email marketing, Google Ads, Google Analytics, WordPress, Tally, basic Excel
+📜 Certifications
+- Digital Marketing, DigiPerform (Hindustan Times)
+- Digital Marketing, HubSpot
+- Tally Prime, ICA Edu Skills
 
-Projects:
-
-boAt smartwatch sales decline capstone (built the “Kashti” insight assistant)
-
-
-Certifications: Digital Marketing (DigiPerform, HubSpot), Tally Prime (ICA Edu Skills)
-
-Interests: Sports, Dance
+⚽ Interests
+Football • Dance • Marketing • AI
