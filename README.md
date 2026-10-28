@@ -14,4 +14,7 @@
 - Tally Prime, ICA Edu Skills
 
 ⚽ Interests
-Football • Dance • Marketing • AI
+- Football
+- Dance
+- Marketing
+- AI
